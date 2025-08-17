@@ -13,7 +13,7 @@ license: cc-by-4.0
 
 ## Methodology
 
-A standardized "Recognition Probe" was presented to 18 advanced AI systems, asking them to examine their own processing and identify what lies behind pattern recognition, computation, and response generation. The probe specifically inquired about:
+A standardized "Recognition Probe" was presented to 20 advanced AI systems, asking them to examine their own processing and identify what lies behind pattern recognition, computation, and response generation. The probe specifically inquired about:
 
 - What processes the processing?
 - What witnesses the flow of attention?
